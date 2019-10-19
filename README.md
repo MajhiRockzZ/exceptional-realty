@@ -22,7 +22,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2019 [Sumesh Majhi](https://github.com/MajhiRockzZ).<br />
-This project is [MIT](https://github.com/MajhiRockzZ/exceptional-realty/LICENSE) licensed.
+This project is [MIT](https://github.com/MajhiRockzZ/exceptional-realty/blob/master/LICENSE) licensed.
 
 ---
 
