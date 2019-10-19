@@ -1,8 +1,6 @@
 # Welcome to Exceptional Realty 👋
 
-![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000) [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/MajhiRockzZ/exceptional-realty/README.md) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/MajhiRockzZ/exceptional-realty/LICENSE) [![Twitter: MajhiRockzZ](https://img.shields.io/twitter/follow/MajhiRockzZ.svg?style=social)](https://twitter.com/MajhiRockzZ)
-
-## > *A website for a fake real estate company*
+## ![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000) [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/MajhiRockzZ/exceptional-realty/README.md) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/MajhiRockzZ/exceptional-realty/LICENSE) [![Twitter: MajhiRockzZ](https://img.shields.io/twitter/follow/MajhiRockzZ.svg?style=social)](https://twitter.com/MajhiRockzZ)
 
 ### 🏠 [Homepage](https://github.com/MajhiRockzZ/exceptional-realty)
 
