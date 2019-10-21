@@ -27,46 +27,67 @@
     />
   </head>
   <body>
-    <!-- Headings and Subheadings -->
-    <h1>Exceptional</h1>
-    <!-- To navigate between different pages -->
-    <a href="./index.html">About</a>
-    <a href="./new-properties.html">New Properties</a>
-    <a href="./real-estate-listings.html">Listing</a>
-    <a href="./market-report.html">Market Report</a>
-    <a href="./contact.html">Contact</a>
-    <a href="http://hud.gov" target="_blank">H.U.D</a>
-    <h2>Realty Group</h2>
+    <header>
+      <!-- Headings and Subheadings -->
+      <h1>Exceptional</h1>
 
-    <!-- Way to insert images -->
-    <img
-      src="./images/intro-pic.jpg"
-      alt="a beautiful living room"
-      title="Welcome to Exceptional Realty"
-    />
+      <nav>
+        <!-- To navigate between different pages -->
+        <a href="./index.html">About</a>
+        <a href="./new-properties.html">New Properties</a>
+        <a href="./real-estate-listings.html">Listing</a>
+        <a href="./market-report.html">Market Report</a>
+        <a href="./contact.html">Contact</a>
+        <a href="http://hud.gov" target="_blank">H.U.D</a>
+      </nav>
+      <h2>Realty Group</h2>
+    </header>
 
-    <!-- Stands for paragraph -->
-    <p>
-      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae odit
-      doloremque at dolore veniam, totam magnam quaerat cumque vero accusamus,
-      voluptatibus voluptas modi, ea ratione placeat officiis consectetur
-      facilis velit recusandae rerum inventore dicta non dolorum? Nesciunt
-      obcaecati dolorum quos.
-    </p>
+    <section id="featured-content">
+      <figure>
+        <!-- Way to insert images -->
+        <img
+          src="./images/intro-pic.jpg"
+          alt="a beautiful living room"
+          title="Welcome to Exceptional Realty"
+        />
+        <figcaption>Image of beautiful living room</figcaption>
+      </figure>
 
-    <p>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur ab
-      sint mollitia. Recusandae ex officia laborum quisquam aperiam! Id, at!
-    </p>
+      <!-- Stands for paragraph -->
+      <p>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae odit
+        doloremque at dolore veniam, totam magnam quaerat cumque vero accusamus,
+        voluptatibus voluptas modi, ea ratione placeat officiis consectetur
+        facilis velit recusandae rerum inventore dicta non dolorum? Nesciunt
+        obcaecati dolorum quos.
+      </p>
 
-    <!-- Video -->
-    <video controls>
-      <source src="./videos/real-estate.mp4" type="video/mp4" />
-      <source src="./videos/real-estate.ogv" type="video/ogg" />
-      Your browser does not support HTML5 video.
-      <a href="https://browsehappy.com/" target="_blank"
-        >Please upgrade your browser</a
-      >
-    </video>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur ab
+        sint mollitia. Recusandae ex officia laborum quisquam aperiam! Id, at!
+      </p>
+    </section>
+
+    <section id="promotional">
+      <figure>
+        <!-- Video -->
+        <video controls>
+          <source src="./videos/real-estate.mp4" type="video/mp4" />
+          <source src="./videos/real-estate.ogv" type="video/ogg" />
+          Your browser does not support HTML5 video.
+          <a href="https://browsehappy.com/" target="_blank"
+            >Please upgrade your browser</a
+          >
+        </video>
+        <figcaption>
+          Promotional Video
+        </figcaption>
+      </figure>
+    </section>
+
+    <footer>
+      &copy; Exceptional Realty all right reserved.
+    </footer>
   </body>
 </html>
